@@ -4,4 +4,4 @@ TO run this this project
 1. Clone the repository
 2. move into the htdocs folder 
 3. add database file to your database 
-4. open your brouser and run with localhost/Result mgt System
+4. open your browser and run with localhost/(your file name)
