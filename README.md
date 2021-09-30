@@ -1,5 +1,7 @@
 # LGMVIP-TASK-3
-Student Result Management System
+WEB DEVELPMENT VIRTUAL INTERNSHIP PROGRAM BY LETS GROW MORE
+TASK-3 Student Result Management System
+
 TO run this this project
 1. Clone the repository
 2. move into the htdocs folder 
